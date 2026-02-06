@@ -1,0 +1,3 @@
+En esta unidad aprendí que las computadoras solo pueden interpretar códigos binarios.
+Para la computadora, toda la información que procesamos se representa mediante 0 y 1.
+Este sistema también se relaciona con los valores verdadero y falso, donde 1 representa verdadero (true) y 0 representa falso (false).
