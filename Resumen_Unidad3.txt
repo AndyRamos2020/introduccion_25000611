@@ -1,0 +1,2 @@
+En esta unidad nos enseñaron cómo instalar GitHub y cómo funciona.
+También aprendimos cómo guardar y subir nuestros archivos a GitHub.
